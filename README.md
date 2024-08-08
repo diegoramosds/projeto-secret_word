@@ -20,5 +20,6 @@ Certifique-se de ter o Node.js e o npm instalados e, em seguida, instale as depe
 
 Após a instalação, inicie o servidor de desenvolvimento com npm start.<br>
 
-Agora, você pode acessar o jogo no seu navegador, geralmente em http://localhost:3000.
+Agora, você pode acessar o jogo no seu navegador<br>
+
 ![Captura de tela 2024-08-08 131508](https://github.com/user-attachments/assets/b4945f64-6c1b-44c5-a6d7-fda30fa85e11)
