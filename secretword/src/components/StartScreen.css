@@ -1,0 +1,13 @@
+.start h1:nth-of-type(7) {
+    color: yellow;
+}
+
+.start h1 {
+font-size: 3.5em;
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.39);
+} 
+
+.start p {
+    margin-bottom: 2em;
+    color: yellow;
+}
