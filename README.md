@@ -1,16 +1,3 @@
- O projeto foi desenvolvido em React e inclui três componentes principais:
-
-StartScreen: Tela inicial do jogo, onde o jogador pode iniciar a partida.
-Game: Componente central do jogo, onde o jogador tenta adivinhar as letras da palavra secreta. A pontuação e o número de tentativas restantes são exibidos, juntamente com as letras já utilizadas.
-GameOver: Tela de fim de jogo, que mostra a pontuação final e permite ao jogador reiniciar o jogo.
-Funcionalidades principais:
-
-Exibição de dica baseada na categoria da palavra secreta.<br>
-Verificação das letras adivinhadas e controle das tentativas restantes.<br>
-Exibição de letras corretas e letras incorretas utilizadas.<br>
-Reinício do jogo após o fim da partida.
-
-
 # 🎮 Secret word
 
 ## 📽️ Demonstração  
@@ -82,7 +69,7 @@ git clone https://github.com/diegoramosds/projeto-secret-word .git
 
 2️⃣ Acesse o diretório da aplicação React no terminal.
 ```bash
-cd 
+cd secretword
 ```
 
 3️⃣ Execute  para instalar as dependências do projeto.
